@@ -2,7 +2,7 @@
 $db_host='localhost';
 $db_name='cashier';
 $db_username='root';
-$db_password='Lsw74551872';
+$db_password='Molecularcloud54958726@';
 $options = array(
   PDO::ATTR_EMULATE_PREPARES => false,
   PDO::ATTR_PERSISTENT => true,
